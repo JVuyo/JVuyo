@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JVuyo
-- 👀 I’m interested in blockchains 
+- 👀 I’m interested in blockchains and freedom of information. 
 - 🌱 I’m currently learning Solidity, Typescript, and C++. 
 - 💞️ I’m looking to collaborate on anything that gives me the chance to learn and improve. 
 - 📫 You can reach me at jvuyovich99@gmail.com
